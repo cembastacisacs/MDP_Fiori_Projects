@@ -1,0 +1,38 @@
+{
+	"fileName": "id_1614755550266_199_addXMLAtExtensionPoint",
+	"fileType": "change",
+	"changeType": "addXMLAtExtensionPoint",
+	"moduleName": "MdpSalesOrderCreationFastTrackAppWithAutoSizing/mdpsalesordercreationfasttrackappwithautosizing/changes/fragments/headerFrg.fragment.xml",
+	"reference": "MdpSalesOrderCreationFastTrackAppWithAutoSizing.mdpsalesordercreationfasttrackappwithautosizing.Component",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/headerFrg.fragment.xml"
+	},
+	"selector": {
+		"name": "GridTableColumnsExtension|zsd_c_header",
+		"viewSelector": {
+			"id": "MdpSalesOrderCreationFastTrackAppWithAutoSizing.mdpsalesordercreationfasttrackappwithautosizing::sap.suite.ui.generic.template.ListReport.view.ListReport::zsd_c_header",
+			"idIsLocal": false
+		}
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/MdpSalesOrderCreationFastTrackAppWithAutoSizing.mdpsalesordercreationfasttrackappwithautosizing/changes/",
+	"projectId": "MdpSalesOrderCreationFastTrackAppWithAutoSizing.mdpsalesordercreationfasttrackappwithautosizing",
+	"creation": "2021-03-03T07:12:49.613Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "sap.ui.rta FlexCommand",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.86.3",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1614755550267_200_composite",
+		"command": "addXMLAtExtensionPoint"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
